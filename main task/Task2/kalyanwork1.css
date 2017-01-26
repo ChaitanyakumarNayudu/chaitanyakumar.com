@@ -1,0 +1,137 @@
+/*css related to the 
+fifthdiv*/
+.fifthdiv{
+	width: 250px;
+	background-color: #394166;
+	margin-left: 250px;
+	border-radius: 10px;
+	position: absolute;
+	top: 370px;
+	height: 280px;
+	float: left;
+}
+.hh{
+	font-size: 15px;
+	text-align: center;
+	color: white;
+	padding: 25px;
+}
+.p1{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	border: 25px solid #02A2A8;
+	height: 60%;
+	width: 65%;
+	border-radius: 50%;
+	margin-left: 18%;
+	background-color: #394166;
+}
+/*css related to the
+sixth div*/
+.sixthdiv{
+	width: 275px;
+	background-color: #394166;
+	position: absolute;
+	float: left;
+	border-radius: 10px;
+	top: 415px;
+	margin-left: 525px;
+	height: 235px;
+}
+.p2{
+	font-size: 15px;
+	text-align: center;
+	color: white;
+	background-color: #CF2F49;
+	margin: 0px;
+	padding: 15px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.p3{
+	font-size: 15px;
+    color: white;
+    /* margin: 0px; */
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 22px;
+    background-color: #E84A63;}
+.p4{
+	font-size: 50px;
+    color: white;
+    margin: 0px;
+    padding: 30px;
+    /* margin-left: 40px; */
+    /* margin-top: 20px; */
+    background-color: #E84A63;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+/*css related to the
+seventh div*/
+.seventhdiv{
+	width: 275px;
+	background-color: #394166;
+	float: right;
+	border-radius: 10px;
+	margin-top: 15px;
+	height: 300px;
+	margin-right: 250px;
+	text-align: center;
+	padding-top: 20px;
+}
+.lh{
+	font-size: 15px;
+	color: white;
+}
+.seventhdiv input[type="email"]{
+	width: 200px;
+	height: 30px;
+	border:0;
+	border-radius: 3px;
+	background-color: #4F577B;
+	padding-left: 25px;
+}
+.seventhdiv input[type="password"]{
+	width: 200px;
+	height: 30px;
+	border:0;
+	border-radius: 3px;
+	background-color: #4F577B;
+	padding-left: 25px;
+}
+.seventhdiv input[type="submit"]{
+	width: 150px;
+	height: 30px;
+	border:0;
+	border-radius: 3px;
+	background-color: #CF2F49;
+}
+.lp1{
+	color: #50587D;
+}
+.lp2{
+	color: white;
+	background-color: #3266B2;
+	padding: 8px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+
+}
+.form-input2::before{
+content: "\f003";
+position: absolute;
+font-family: "fontawesome";
+padding-top: 8px;
+padding-left: 5px;
+color: white;
+}
+.form-input3::before{
+content: "\f023";
+position: absolute;
+font-family: "fontawesome";
+padding-top: 8px;
+padding-left: 5px;
+color: white;
+}
