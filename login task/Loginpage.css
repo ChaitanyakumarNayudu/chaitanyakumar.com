@@ -1,0 +1,188 @@
+body{
+	margin: 0px;
+}
+.maindiv{
+	width: 1366px;
+	height: 768px;
+}
+.firstdiv{
+	width: 1366px;
+	height: 60px;
+	background-color: #1e9cc7;
+	margin: 0px;
+}
+.image1{
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	padding-left: 52px;
+}
+.label1{
+	color: white;
+	position: absolute;
+	top: 20px;
+	padding-left: 10px;
+}
+.seconddiv{
+	background-color: #f3f3f4;
+	height: 648px;
+	width: 1366px;
+}
+h1{
+	text-align: center;
+	font-size: 32pt regular;
+	color: #373737;
+	margin: 0px;
+	padding-top: 70px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+	font-size: 22pt;
+	text-align: center;
+	color: #5C5C5C;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.thirddiv{
+	background-color: #e1e2e6;
+	margin-right: 273px;
+	margin-left: 273px;
+	width: 819px;
+	height: 277px;
+	border-radius: 5px;
+	position: relative;
+	border: 1px solid #cccccc;
+}
+.formdiv{
+	padding-top: 42px;
+	padding-left: 34px;
+	margin: 0px;
+	float: left;
+	width: 338.72px;
+	height: 237px;
+}
+.requestdiv{
+	float: right;
+	margin-right: 34px;
+	text-align: center;
+	height: 279px;
+}
+.centerdiv{
+	height: 279px;
+	width: 75px;
+	display: inline-block;
+	text-align: center;
+}
+.vertical1{
+    border-left: 1px solid #cccccc;
+    position: absolute;
+    left: 50%;
+    height: 40%;
+    top: 3%;
+}
+.vertical2{
+    border-left: 1px solid #cccccc;
+    position: absolute;
+    left: 50%;
+    height: 40%;
+ }
+.emailinput{
+	width: 307px;
+	height: 23px;
+	border-radius: 4px;
+	padding-left: 10px;
+	border: 1px solid #bcbcbc;
+}
+.passwordinput{
+	width: 307px;
+	height: 23px;
+	border-radius: 5px;
+	margin-top: 27px;
+	padding-left: 10px;
+	border: 1px solid #bcbcbc;
+}
+.check{
+	height: 17px;
+	width: 17px;
+	border: 1px solid #7d7d7d;
+	color: #5C5C5C;
+}
+#checkid{
+	 color: #5C5C5C;
+}
+.idbutton{
+	width: 321px;
+	height: 28px;
+	border-radius: 4px;
+	background-color: #599b7b;
+	border: 1px solid #bcbcbc;
+	color: #ffffff;
+}
+.iddiv {
+    padding-left: 40px;
+    color: #5C5C5C;
+}
+a{
+	color: #5C5C5C;
+}
+.requestbutton{
+	margin-top: 120px;
+	margin-bottom: 120px;
+	width: 321px;
+	border-radius: 4px;
+	height: 28px;
+	background-color: #599b7b;
+	border: 1px solid #bcbcbc;
+	color: #ffffff;
+}
+.orbutton{
+	height: 40px;
+	width: 40px;
+	margin-top: 120px;
+	border: 1px #ffffff;
+	background-color: #464646;
+	color: #ffffff;
+}
+.lastdiv{
+	width: 1366px;
+	height: 60px;
+	background-color: #131313;
+	margin: 0px;
+}
+.image2{
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	padding-left: 52px;
+}
+.label2{
+	color: white;
+	position: relative;
+	bottom: 3px;
+	padding-left: 10px;
+}
+i{
+color: #599b7b;
+}
+ul{
+	list-style-type: none;
+	margin: 0px;
+}
+li{
+	display: inline;
+	padding: 5px;
+	color: #ffffff;
+}
+#lastid{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.lastlist{
+	float: right;
+	height: 59px;
+	text-align: center;
+	line-height: 59px;
+}
