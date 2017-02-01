@@ -1,0 +1,150 @@
+*{margin: 0px;border: 0px;}
+.headerdiv{
+	background-color: #16A086;
+	width: 1366px;
+	height: 160px;
+}
+.ce{
+	padding-left: 100px;
+	transform: translateY(30%);
+}
+a{color: #16A086; }
+.imagediv{
+	height: 80px;
+	color: white;
+	font-family: 'Arial Black';
+}
+.menulist{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.anchor1{
+	text-decoration: none;
+	font-family: 'Verdana';
+	color: white;
+}
+.itemsofmenu{
+	float: left;
+	line-height: 50px;
+	padding-left: 30px;
+	padding-right: 25px;
+	background-color: #1BBC9B;
+}
+.welcomediv{
+	width: 1366px;
+	height: 200px;
+	background-color: #F3F3F3;
+}
+.welcome{
+	font-family: 'Arial Black';
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#fun{
+	text-align: center;
+}
+p{
+	font-family: 'Arial';
+}
+.threedivs{
+	height: 400px;
+	width: 1366px;
+}
+.firstdiv{
+	height: 400px;
+	float: left;
+	width: 455.33px;
+}
+.seconddiv{
+	height: 400px;
+	float: left;
+	width: 455.33px;
+}
+.thirddiv{
+	height: 400px;
+	float: right;
+	width: 455.33px;
+}
+h3{
+	font-family: 'Arial Black';
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+h5{
+	font-family: 'Arial Black';
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#p2{
+	text-align: center;
+	color: #5C5C5C;
+}
+#p{
+	text-align: center;
+	color: #5C5C5C;
+	padding: 0px 40px;
+}
+.learn1{
+    text-align: center;
+    padding: 20px;
+    background-color: #16A086;
+    margin: 50px;
+    color: #ffffff;
+}
+.learn{
+    text-align: center;
+    padding: 20px;
+    background-color: #16A086;
+    margin: 50px 140px;
+    color: #ffffff;
+}
+.image1,.image2,.image3{
+	height: 500px;
+	width: 282px;
+	display: inline-block;
+	padding-right: 75px;
+}
+.image4{
+	height: 500px;
+	width: 282px;
+	display: inline-block;
+}
+.images{
+	width: 1366px;
+	height: 500px;
+}
+.lastbone{
+	width: 1366px;
+	height: 250px;
+	background-color: #F3F3F3; 
+}
+.welcome{
+	font-family: 'Arial Black';
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.lastge{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+.lastclass{
+	height: 120px;
+	width: 1365px;
+	text-align: center;
+}
+.lastone{
+	width: 1366px;
+	height: 300px;
+	background-color: #16A086;
+}
+.lastpara{
+	color: #ffffff;
+	text-align: center;
+	padding-top: 125px;
+}
